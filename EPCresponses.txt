@@ -1,0 +1,38 @@
+EPC Chatbot Responses to common questions
+
+1. **How much does an EPC assessment cost?**
+   - The cost of an Energy Performance Certificate (EPC) assessment can vary depending on factors such as the type and size of your property and its location. To provide you with an accurate price, please provide us with your property details, and we'll give you a personalized quote.
+
+2. **How long does an EPC assessment take?**
+   - The duration of an EPC assessment typically depends on the size and complexity of the property. On average, it may take anywhere from 20 minutes to an hour. 
+
+3. **Do I need to be present during the assessment?**
+   - It's not necessary for you to be present during the entire assessment, but it's helpful if you or someone responsible for the property can provide access and answer any questions the assessor may have. The assessor will need access to all areas of the property, including the loft.
+If you can not be present please provide access details.
+
+4. **What should I prepare for the assessment?**
+   - To ensure a smooth assessment, please make sure that the energy assessor has access to all areas of the property, including the loft, boiler, and heating controls. Additionally, if you have any relevant documents, such as insulation certificates, it's helpful to have them ready.
+
+5. **How soon can I get an EPC assessment appointment?**
+   - Our availability for EPC assessments may vary, but we will do our best to accommodate your preferred date and time. We recommend booking your appointment as early as possible to secure your desired slot via calendly (insert link)
+
+6. **What is the purpose of an EPC?**
+   - An Energy Performance Certificate (EPC) provides information about a property's energy efficiency. It includes an energy rating and recommendations for improving energy efficiency. EPCs are required when selling or renting a property in most cases, and they help potential buyers or renters understand the property's energy performance.
+
+7. **Can I reschedule or cancel my appointment if needed?**
+   - Yes, you can reschedule or cancel your appointment if necessary. Please let us know as soon as possible, and we'll work with you to find a suitable alternative date and time.
+
+8. **Is the EPC assessment intrusive or disruptive to my daily activities?**
+   - The assessment is not typically disruptive. The energy assessor will need access to various areas of the property, but they aim to minimize any inconvenience. You can continue with your daily activities while the assessment takes place.
+
+9. **How long is the EPC certificate valid for?**
+   - An EPC certificate is generally valid for ten years. After that period, you may need to obtain a new certificate if you are selling or renting the property.
+
+10. **What information will be included in the EPC report?**
+    - The EPC report will include information about your property's energy efficiency rating, estimated energy costs, and recommendations for improving energy efficiency. It's a valuable document for understanding and improving your property's energy performance.
+11. How do I make payment?
+- payment can be made in cash on the day of the visit.
+You can pay in advance via payment link (this will be a stripe account)
+Or bank transfer (bank details provided)
+
+
